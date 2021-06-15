@@ -59,12 +59,14 @@
             this.altaDeEquipoToolStripMenuItem.Name = "altaDeEquipoToolStripMenuItem";
             this.altaDeEquipoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.altaDeEquipoToolStripMenuItem.Text = "Alta de Equipo";
+            this.altaDeEquipoToolStripMenuItem.Click += new System.EventHandler(this.altaDeEquipoToolStripMenuItem_Click);
             // 
             // reporte1ToolStripMenuItem
             // 
             this.reporte1ToolStripMenuItem.Name = "reporte1ToolStripMenuItem";
             this.reporte1ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.reporte1ToolStripMenuItem.Text = "Reporte 1";
+            this.reporte1ToolStripMenuItem.Click += new System.EventHandler(this.reporte1ToolStripMenuItem_Click);
             // 
             // Principal
             // 
